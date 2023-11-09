@@ -1,7 +1,10 @@
 {
   "rules": {
     "max-kanji-continuous-len": {
-      "allow": []
+      "allow": [
+        "外部記憶媒体",
+        "最高経営責任者"
+      ]
     },
     "max-ten": {
       "max": 7
