@@ -1,5 +1,7 @@
 {
   "scripts": {
+    "markdownlint": "markdownlint *.md",
+    "markdownlint:fix": "markdownlint --fix *.md",
     "textlint": "textlint *.md",
     "textlint:fix": "textlint --fix *.md"
   },
